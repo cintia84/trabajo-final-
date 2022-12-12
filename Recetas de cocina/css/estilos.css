@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2? family= Satisfy & display=swap');
+@import url('https://fonts.googleapis.com/css2? familia = Kaushan + Guión &family= Satisfy & display=swap');
+@import url('https://fonts.googleapis.com/css2? familia = galleta yfamilia = Kaushan + Guión &family= Satisfy & display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Cookie & family= Kaushan+Script & family= Satisfy & family= Titan+One & display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Cookie & family= Indie+Flower & family= Kaushan+Script & family= Kolker+Brush & family= Satisfy & family= Titan+ Uno & mostrar=cambiar');
+
+body{
+  background-color: #FFCCFF;background-image: url(madera2.jpg);
+  display: flex;flex-wrap: wrap;flex-direction:  row;}
+
+.contactos1{
+  font-family:'Satisfacer', cursiva;width: 80vw;height: 50vh}
+
+header{
+  background-color:#FF1744 ;width: 100vw;height: 12vh;font-size: 100%;
+  display: flex;flex-wrap: wrap;justify-content: space-around;flex-direction: row;}
+
+.logo{
+  display: flex;width: 100px; height: %; border-radius: 30%;margin-right: 10%; border: #660099 solid 5px;}
+
+.navbar{
+  display: flex;background-color: #FF1744 ;width: 20vw;height: 6vh;;opacity: 90%;margin-left: 2%;}
+
+main{
+  display: flex;flex-wrap: wrap;height: 50vh;width: 100vw;background-color: #FF1744; justify-content: space-around;
+padding-top: 1%;margin-top: 1%}
+
+.carrusel{
+  display: flex;justify-content: center;width: 50%; padding-right: 4%;margin-left: 20%;}
+
+.empanadascar{width: 40rem;height:20rem;}
+
+.titmain{ 
+  display: flex; font-family:'Titan One', cursiva;font-weight:  bolder;font-style: italic;color: #C0392B;
+background-color: #F2D7D5;width: 50%;margin-left: 6%;padding-left: 15%;-webkit-text-stroke: 2px #330066;}
+
+.inicio-contactos{
+  display: flex;flex-wrap: wrap;flex-direction: column;;font-size: 150%;order:align-items: flex-start;
+  order: 1;background-color: YellowGreen;border-radius: 6%}
+
+.ingredientes{font-family: 'Satisfacer', cursiva;font-size: 250%;color:#DD2C00}
+
+
+h1{
+  font-size: 200%;font-family: 'Cookie', cursiva;font-style:italic;color: black;padding-top: 10%;
+text-decoration: underline;text-decoration-color:black;display:flex;justify-content:center;background-color: #BBDEFB;
+width: 110%;height: 100%;border-radius: 50%;}
+
+
+.titulosrecetas{
+  font-style:  'Cookie', cursiva;font-size: 180%;font-weight: bold; font-weight: bold;-webkit-text-stroke: 1px #FFE0B2;
+color: #993300;background-color: #AED581;opacity: 80%;}
+
+a{font-size: 150%;font-family: 'Cookie', cursiva;font-style: oblique;color: #dad1dd;display: flex;}
+
+
+ li{
+  font-size: 70%;font-style:  oblique;font-weight: bold;padding-left: 12%;text-align:  justify;
+  color: #33691E;display: flex;background-color: #AED581;opacity: 80%;padding-bottom: %}
+
+.button{border-radius: 80%;background-color: #33FF00;}
+
+section{
+  width:100%;background-color:;background-color: #FFCCCC; background-attachment: fixed;display: flex;flex-wrap: wrap
+  ;flex-direction: row;justify-content: space-between;;text-align:center ;padding: 1%;;}
+
+.card{background-color:  #F2D7D5;}
+  
+  .imgcard{width: 100%;height: 10rem;border:#9900CC  5px solid;}
+  .card-body{background-color: #990000;}
+  .section2{width: 100%;height: 10%;background-color: #33FF00;}
+
+aside{
+  width:100%; background-color:red ;display: flex;flex-wrap: wrap; justify-content: center;justify-content: space-around
+    ;align-content: space-around;}  
+    
+.divh2{display: flex;flex-wrap: wrap; width:100% ;height:20%; background-color: #F2D7D5;}
+
+.lasdelicias{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;font-weight: 700;color: blueviolet;-webkit-text-stroke: 2px #330066;
+padding: 3%;padding-left: 35%;font-size: 200%;}
+
+.imgcard2{ width: 100%;height: 10rem;margin-top: 20%;border-radius: 20%;border: #66FF00  5px solid;}
+.card-body1{background-color: #7CB342;margin-top: 2%; border: #E3F2FD 5px solid;}
+.card-body2{background-color: blueviolet;margin-top: 2%; border: #CCCC99 5px solid;}
+.card-body3{background-color:#CC6633 ;margin-top: 2%;border:#CCCCCC   5px solid;}
+.card-body4{background-color: #993300;margin-top: 2%;border: #CCCCCC 5px solid;}
+.card-title2{font-size: 150%;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;color: #AEEA00;}
+.card-text2{font-size: small;font-family: Verdana, Geneva, Tahoma, sans-serif;font-weight: 700;}
+
+
+.enlacesrecetas{
+  height: 10%; font-family: 'Cookie', cursiva;font-size: 100%;display: flex;justify-content: space-around;
+  flex-direction: row; padding: 3%;}
+.miraquemas{
+  font-family: 'Cookie', cursiva;font-weight: bold;-webkit-text-stroke: 1.2px black;;font-size: 150%;color: #33FF00;
+   height: 25%;margin-bottom:2%;margin-left: 35%;}
+.empollo{font-size: 120%;font-weight: bold;color:#FF3300 }
+.emjyq{font-size: 120%;font-weight: bold;color:#FF3300 }
+.emhumita{font-size: 120%;font-weight: bold;color: #FF3300}
+.emarabes{font-size: 120%;font-weight: bold;color: #FF3300}
+
+
+section2{
+  display: flex;flex-wrap: wrap;flex-direction:  row;justify-content:  space-around;
+  ;margin: 2%;width: 100%;border-radius: 2%;padding-bottom: 5%}
+.card-text{font-size: 100%;font-weight: bold;font-family: 'Cookie', cursiva;
+color: DarkViolet;text-align: center;background-color: yellow;width: 90%;}
+.card-title{
+  font-size: 130%;;font-family:  sans-serif;font-weight: bold;}
+.tartadecebolla{
+  width: 18rem; margin: 2%}
+.fondocebolla{
+  background-color: #FF6633;width: 100%;border: solid black 2px;border-radius: 5%}
+.tartadericota{
+  width: 18rem;margin: 2%}
+.fondoricota{
+  background-color: #6666FF;width: 100%;border: solid black 2px;border-radius: 5%}
+.pascualina{
+  width: 18rem;margin: 2%}
+.fondopascualina{
+  background-color: #99CC33;width: 100%;border: solid black 2px;border-radius: 5%}
+.crostata{
+  width: 18rem;margin: 2%;}
+.fondocrostata{
+  background-color: #990000;width: 100%;border: solid black 2px;border-radius: 5%}
+.container{
+  align-content: justify;}
+.row{
+  justify-content: space-around;align-content: center;}
+
+.comentarios{
+   display: flex;flex-wrap: wrap; height: 100%; width: 100%; padding: 10%;
+   margin-left: 5%;
+}
+
+footer{
+  height: 20vh;width: 100vw;background-color: #7CB342; display: flex;flex-wrap: wrap;
+    justify-content: space-around;opacity: 90%;}
+
+.redes{width:20%;display:flex;flex-wrap: wrap;justify-content:  space-around;align-items: center;flex-direction: row}
+.face{width: 3rem;height:3rem; margin: 1%;border-radius: 10%}
+.inst{width: 3rem;height:3rem;margin: 1%;border-radius: 10%}
+.pint{width: 3rem;height:3rem;margin: 1%;border-radius: 10%}
+.you{width: 3rem;height:3rem;margin: 1%;border-radius: 10%}
+.github{width: 3rem;height:3rem;margin: 1%;border-radius: 10%}
+
+.copy{
+  display: flex;flex-wrap: wrap;text-align: center;align-items: flex-start;flex-direction: column;font-size: 150%;}
+.botoncopy{
+  background-color: #B71C1C;font-style: italic;border-radius: 10%}
+.idcintia{
+  font-family: 'Satisfacer', cursiva; text-decoration: underline;font-size: 130%}
+.divmiciudad{font-size: 100%;display: flex;flex-wrap: wrap;flex-direction: column;}
+.venado{font-family: cursive;font-size: 100%;color:#B71C1C}
+.mapavenado{width: 50%}
+.whats{width: 100px;position: fixed;bottom: 60px;right: 100px;display: flex;}
+
+a:hover{color:yellow;font-size: 150%;}
+
+footer:hover{background-color: #AEEA00;}
+
+.whats:hover{width: 200px}
+
+
+/*estilos para tablets
+@media (min-width: 768px) (max-width: 940px){
+.juntos{
+  width: 600px;display: block;}
+header{
+  width:600px}
+footer{
+  width: 600px}
+  main{
+    width: 600px}
+    nav{
+      width: 600px}*/
+
+/*medida movil vertical
+@media (min-width: 575px)
+{
+body{width: 100%}
+header{width: 100%}
+main{width: 100;font-size: 100%;left: 1rem;}
+.textomain{font-size: 100%;border-left: 20%}
+section{width:100%;background-color: none;background-image: url(fondovertical.jpg);
+  background-size: auto; contain;padding: 5%;margin: 2%}
+ li{align-items: center;font-size: 60%}
+aside{width: 100%;height: 40%}
+.enlacesrecetas{font-size: 100%}
+.footer{width: 100% }
+}
+
+no me funcionan los mediaquery
+
+
+}
+@media (max-width:575px) {
+  h1{
+    color: redes;
+    background-color: Olive;
+  }
+}*/
